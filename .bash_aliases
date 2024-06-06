@@ -16,5 +16,5 @@ Copy Directory: cp -r
 List Files (Long): ls -l
 Run as admin: sudo <command>
 Get filepath: readlink -f
-Initialise Git Repo: gitinit {ssh url}
+Initialise Git Repo: initgit {ssh url}
 -------------------------"'
